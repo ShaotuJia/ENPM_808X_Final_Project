@@ -1,3 +1,5 @@
+# Indoor Robot Navigation
+[![Build Status](https://travis-ci.org/ShaotuJia/ENPM_808X_Final_Project.svg?branch=master)](https://travis-ci.org/ShaotuJia/ENPM_808X_Final_Project)
 This project is to implement a software for indoor service robot. This software will help robot move in a room without collsion. 
 
 ## SIP Docs
